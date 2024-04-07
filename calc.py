@@ -8,3 +8,5 @@ print("difference",sub(4,5))
 def mult(a,b):
 	return (a *b)
 mult(2,5)
+
+print(mul(1,2))
